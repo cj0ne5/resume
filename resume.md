@@ -4,11 +4,17 @@ header:
   - text: <span class="iconify" data-icon="charm:globe"></span> https://chrismjon.es
     link: https://chrismjon.es
   - text: <span class="iconify" data-icon="tabler:phone"></span> 757-635-7964
-    newLine: true
   - text: <span class="iconify" data-icon="tabler:mail"></span> chris@chrismjon.es
-    link: mailto:icancook@email.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> cj0ne5
+    link: mailto:chris@chrismjon.es
+    
+
+  - text: <span class="iconify" data-icon="tabler:brand-github"></span> github.com/cj0ne5
     link: https://github.com/cj0ne5
+    newLine: true
+  - text: <span class="iconify" data-icon="devicon-plain:codeberg"></span> codeberg.org/MrJonesAPS
+    link: https://codeberg.org/MrJonesAPS
+  - text: ⁂ hachyderm.io/@sudocris
+    link: https://hachyderm.io/@sudocris
 ---
 
 ## Professional Experience
@@ -37,6 +43,15 @@ header:
   - Managed the collection and processing of transaction-level data from Mastercard, clients, and partners.
   - Architected data pipelines and warehouses to meet client- and project-specific analytical needs.
   - Contributed significantly to recruiting, conducting and assessing over 100 interviews.
+
+**Parent** 
+  ~ 2022 - Present
+
+- Deliver engaging, educational activities for an energetic three-year-old.
+- Encyclopedic knowledge of Paw Patrol cinematic universe - can recite plots of episodes on demand.
+- Practical Study of System Dynamics - I can make waffles faster than a toddler can eat them.
+- Practical study of Linux System Administration - maintain a home media server that is accessible over the internet, requires constant uptime, can respond to queries like "Paw Patrol Episode with a skunk", and can stream to a variety of devices.
+
 
 ## Education
 
@@ -99,7 +114,7 @@ B.S. Computer Science
 - "Using OER to Create an Integrated CS/Web Development Pathway" at 2026 Joint VCCS Technology Peer Group Meeting (upcoming)
 
 **Classroom Tools**
-- Developed and published tools that allow teachers to use Markdown to write and publish professional documents including lecture slides, tests/quizzes/exams, course websites, recommendation letters, syllabi, etc. (This resume is written in Markdown). Conversion uses LaTeX, Pandoc, Reveal.js, and Mermaid.js 
+- Developed and published tools that allow teachers to use Markdown to write, version-control, and publish professional documents including lecture slides, tests/quizzes/exams, course websites, recommendation letters, syllabi, etc. (This resume is written in Markdown!). Conversion uses LaTeX, Pandoc, Reveal.js, and Mermaid.js 
 - Designed and created a hallpass system that allows students to request passes via a web interface connected to an in-classroom raspberry pi and receipt printer.
 
 ## Community
@@ -113,7 +128,7 @@ B.S. Computer Science
     ~ Social Justice Computing
     ~ 2025 - Present
 
-**Web Streaming Platform Developer**
+**Music Streaming Platform Developer**
     ~ DistrikKollective
     ~ 2025 - Present
 - Working with this DC-based musician cooperative to create an deploy a local, musican-owned music streaming platform, using open source software.
