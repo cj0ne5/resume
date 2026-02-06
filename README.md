@@ -1,0 +1,1 @@
+To convert this Markdown to PDF, I used <https://ohmycv.app/> / <https://github.com/Renovamen/oh-my-cv>

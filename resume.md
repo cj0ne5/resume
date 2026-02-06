@@ -1,73 +1,42 @@
 ---
-name: Haha Ha
+name: Chris Jones
 header:
-  - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">Applying for: Cooking Engineer</span>
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+1) 123-456-7890
+  - text: <span class="iconify" data-icon="charm:globe"></span> https://chrismjon.es
+    link: https://chrismjon.es
+  - text: <span class="iconify" data-icon="tabler:phone"></span> 757-635-7964
     newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> icancook@email.com
+  - text: <span class="iconify" data-icon="tabler:mail"></span> chris@chrismjon.es
     link: mailto:icancook@email.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> Renovamen
-    link: https://github.com/Renovamen
-  - text: <span class="iconify" data-icon="charm:person"></span> zxh.me
-    link: https://zxh.me
+  - text: <span class="iconify" data-icon="tabler:brand-github"></span> cj0ne5
+    link: https://github.com/cj0ne5
 ---
----
-name: [Your Name Here]
-header:
-  - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">Applying for: [Target Role, e.g., Computer Science Teacher, Product Manager]</span>
-  - text: <span class="iconify" data-icon="tabler:phone"></span> [Your Phone Number]
-    newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> [Your Email]
-    link: mailto:[Your Email]
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> [Your GitHub Username]
-    link: https://github.com/[Your GitHub Username]
-  - text: <span class="iconify" data-icon="charm:person"></span> [Your Website or Portfolio]
-    link: https://[Your Website or Portfolio]
----
-
-<!-- Important: Replace all template content, especially contact details, with your own information. -->
-
-<!-- Important: When updating your email address, remember to change both the "text" (visible text) and the "link" (underlying hyperlink) fields. -->
-
 
 ## Professional Experience
 
 **Computer Science Teacher**
   ~ Arlington Public Schools
-  ~ 2022 – Present
+  ~ 2022 - Present
 
-- Teach Computer Science to ~130 students per year with a focus on inclusion, especially for students with special needs and English language learners.
-- Develop engaging, project-based curriculum to encourage independent learning in Advanced Placement and Dual Enrolled courses.
-- Cultivate a safe, welcoming environment for students through involvement in class, before/after school, during lunches, and via extracurriculars (Coding Club, Game Development Club, Bike Club, Outdoors Club, Homework Hangout).
-- Develop and deliver new curriculum for the "Introduction to Information Technology" course.
+- Develop engaging, project-based curriculum to encourage independent learning in Advanced Placement and Dual Enrolled courses. Documented select projects and lesson plans on my personal teaching portfolio: https://chrismjon.es/portfolio/ 
+- Emphasize cross-curricular projects, including collaborations with culinary arts, cosmetology, library sciences, college and career counseling.
+- Cultivate a safe, welcoming environment for students through involvement in class, before/after school, during lunches, and via extracurriculars (Coding Club, Game Development Club, Bike Club, Outdoors Club, Cohort).
+- Publish OER curriculum materials via GitHub/Codeberg, YouTube, and public course website (https://ict.gctaa.net). Contributed to open textbooks on https://openbookproject.net/
+- Countywide Lead High School Computer Science Teacher for 2023-2024 school year, guiding curriculum and instruction across the district and mentoring new teachers.
+- Developed a course advising website that helps students and families decide which computer science courses to take (https://apscs.org). Conducted dozens of interviews with stakeholders to inform content and design, and disseminated to counselling staff. 
 
-**Principal, Product Manager - Technical**
-  ~ Mastercard (Data Platforms)
-  ~ 2013 – 2022
+**Mastercard, Data and Services Platforms**
+  ~ 2013 - 2022
 
-- Led cross-functional teams to design and implement internal-facing data platforms and infrastructure, enabling analysts and other platforms to consume Mastercard's transaction data assets (>100 billion transactions annually).
-- Collaborated with business stakeholders, privacy/governance teams, and technical teams to ensure projects met business objectives, budget/schedule constraints, and complied with privacy controls across geographies.
+(formerly Applied Predictive Technologies, acquired in 2015)
 
-**Director, Data Engineering**
-  ~ Mastercard (Data and Services Platforms)
-  ~ [Start Year] – [End Year]
-
-- Led a team of ~60 engineers and product managers across four continents.
-- Managed the collection and processing of transaction-level data from Mastercard, clients, and partners.
-- Architected data pipelines and warehouses to meet client- and project-specific analytical needs.
-- Contributed significantly to recruiting, conducting and assessing over 100 interviews.
-
-**Dual Enrolled Computer Science Teacher / Countywide Lead**
-  ~ Arlington Tech / Northern Virginia Community College
-  ~ 2022 – Present
-
-- Teach college-level IT and Computer Science courses through the Dual Enrollment program.
-- Serve as the Countywide Lead High School Computer Science Teacher, guiding curriculum and instruction across the district.
-
-
-
+- As Principal, Product Manager - Technical
+  - Led cross-functional teams to design and implement internal-facing data platforms and infrastructure, enabling analysts and other platforms to consume Mastercard's transaction data assets (>100 billion transactions annually).
+  - Collaborated with business stakeholders, privacy/governance teams, and technical teams to ensure projects met business objectives, budget/schedule constraints, and complied with privacy controls across geographies.
+- As Director, Data Engineering
+  - Led a team of ~60 engineers and product managers across four continents.
+  - Managed the collection and processing of transaction-level data from Mastercard, clients, and partners.
+  - Architected data pipelines and warehouses to meet client- and project-specific analytical needs.
+  - Contributed significantly to recruiting, conducting and assessing over 100 interviews.
 
 ## Education
 
@@ -91,7 +60,7 @@ B.S. Computer Science
 
 *Jefferson Scholar* (full academic scholarship)
 
-
+\newpage
 ## Selected Educational Experience
 
 **Active Teaching Licensure**
@@ -99,51 +68,53 @@ B.S. Computer Science
 
 - Endorsements: Computer Science, Physics
 
-**Praxis Scores**
-
-- Computer Science: 196
-- Physics: 167
-
 **Languages Taught**
 
-- Python (including Django, Flask, Pygame, Jupyter Notebooks, Pandas, spaCy, Scikitlearn, CMU CS Academy)
-- Java
-- HTML/CSS
-- Javascript
-- SQL (Sqlite, PostgreSQL)
+- <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python (including Django, Flask, Pygame, Jupyter Notebooks, Pandas, spaCy, Scikitlearn, CMU CS Academy)
+- <span class="iconify" data-icon="vscode-icons:file-type-java"></span> Java
+- <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML/CSS
+- <span class="iconify" data-icon="vscode-icons:file-type-js"></span> JavaScript
+- <span class="iconify" data-icon="vscode-icons:file-type-pgsql"></span> SQL (SQLite, PostgreSQL)
 
-**Courses Taught (College, NVCC DE Program)**
-  ~ Northern Virginia Community College
+**Courses Taught** 
 
-- ITD110 Web Page Design I, ITD210 Web Page Design II, ITE 140 Spreadsheeting for Business, ITD256 Advanced Database Management, ITP 225 Web Scripting Languages
+- Through Northern Virginia Community College DE Program:
+  - ITD110 and ITD210 - Web Page Design I / II
+  - ITE 140 - Spreadsheeting for Business
+  - ITD256 - Advanced Database Management
+  - ITP 225 - Web Scripting Languages
+  - CSC 221 - Introduction to Problem Solving and Programming
+- Wakefield High School / Arlington Tech
+  - Introduction to Information Technology
+  - Computer Programming
+  - Advanced Computer Programming
+  - AP Computer Science A
+  - AP Computer Science Principles
 
-**Courses Taught (High School)**
-  ~ Wakefield High School / Arlington Tech
+**University Guest Lecturer**
+- As part of Mastercard recruiting efforts, presented guest lectures on Data Engineering to graduate-level classes at UVA, CMU, Texas A&M
 
-- Introduction to Information Technology, Computer Programming, Advanced Computer Programming, AP Computer Science A, AP Computer Science Principles
+**Presentations**
+- "Building an Integrated Computer Science / Web Development Pathway with Python" at PyCon US 2025 Education Summit, with Jeff Elkner
+- "Using OER to Create an Integrated CS/Web Development Pathway" at 2026 Joint VCCS Technology Peer Group Meeting (upcoming)
 
-**Guest Lecturer**
-    ~ Mastercard
-    ~ Aug 2013 – Present
-
-    - Present guest lectures on Data Engineering to graduate-level classes at multiple universities.
-
-**Programming Contests**
-    ~ University of Virginia
-    ~ Fall 2012 – Spring 2013
-
-    - Organized an annual contest for ~50 high school participants.
-
-
+**Classroom Tools**
+- Developed and published tools that allow teachers to use Markdown to write and publish professional documents including lecture slides, tests/quizzes/exams, course websites, recommendation letters, syllabi, etc. (This resume is written in Markdown). Conversion uses LaTeX, Pandoc, Reveal.js, and Mermaid.js 
+- Designed and created a hallpass system that allows students to request passes via a web interface connected to an in-classroom raspberry pi and receipt printer.
 
 ## Community
 
-**Database Developer & Maintainer**
-    ~ Liberty’s Promise
-    ~ 2013 – Present
+**CRM Developer & Maintainer**
+    ~ Liberty's Promise
+    ~ 2013 - 2021
+- Designed, built, and deployed a custom case management database and web application for this nonprofit serving DC-area immigrant youth. Provided on-call support and additional feature development for eight years.
 
-    - Designed, built, and actively maintain a custom case management database and web application for this nonprofit serving DC-area immigrant youth.
+**Board Member**
+    ~ Social Justice Computing
+    ~ 2025 - Present
 
-**SJC Board Member**
+**Web Streaming Platform Developer**
+    ~ DistrikKollective
+    ~ 2025 - Present
+- Working with this DC-based musician cooperative to create an deploy a local, musican-owned music streaming platform, using open source software.
 
-**DistrikKollective**
